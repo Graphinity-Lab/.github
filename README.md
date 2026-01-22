@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-  <img src="https://graphinitylab.com/banner_trans.webp" width="60%" alt="Graphinity Banner"/>
+  <img src="https://graphinitylab.com/logo.ico" width="60%" alt="Graphinity Banner"/>
 </p>
 
 <h1 align="center">
