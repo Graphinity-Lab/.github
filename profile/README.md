@@ -1,24 +1,29 @@
 <p align="center">
-  <img src="https://graphinitylab.com/logo.ico" width="45%" alt="Graphinity Lab"/>
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=800&center=true&vCenter=true&width=620&lines=Bespoke+software+ecosystems+%26+distinctive+web;Based+in+Ontario+-+Serving+everywhere;Measured+performance%2C+quiet+reliability." alt="Graphinity Lab" />
-</h1>
-
-<p align="center">
-  <strong>We design tailored software ecosystems for how your organisation actually operates—alongside refined web estates and discreet, principal-operated infrastructure when you wish to delegate production entirely.</strong>
+  <img src="https://graphinitylab.com/logo.ico" width="120" alt="Graphinity Lab"/>
 </p>
 
 <p align="center">
-  <a href="https://graphinitylab.com"><img src="https://img.shields.io/badge/Practice-bespoke-built-2c3e50?style=flat-square" alt="Bespoke practice"/></a>
-  <a href="https://graphinitylab.com"><img src="https://img.shields.io/badge/Based%20in%20Ontario-global%20reach-6366f1?style=flat-square&logo=google-maps&logoColor=white" alt="Ontario · global reach"/></a>
-  <a href="mailto:contact@graphinitylab.com"><img src="https://img.shields.io/badge/Private%20briefing-available-4338ca?style=flat-square&logo=gmail&logoColor=white" alt="Request a private briefing"/></a>
+  <strong>GRAPHINITY LAB</strong><br/>
+  <sub>Boutique engineering · bespoke software &amp; distinguished web · Ontario-rooted · worldwide mandates</sub>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=850&repeat=true&duration=3200&color=BF9F4B&center=true&vCenter=true&width=720&lines=Bespoke+software+ecosystems+and+distinctive+digital+presentation.;Based+in+Ontario%2C+serving+clients+worldwide.;Measured+performance+and+quiet+reliability." alt="Rotating headline" />
+</p>
+
+> *We design **tailored software ecosystems** for how your organisation operates—alongside refined web estates and discreet, principal-operated infrastructure when you prefer not to operate production hosts yourself.*
+
+<p align="center">
+  <a href="https://graphinitylab.com"><img src="https://img.shields.io/static/v1?style=flat-square&amp;label=Built&amp;labelColor=30363d&amp;message=bespoke&amp;color=C9A961" alt="Built bespoke"/></a>
+  &#160;
+  <a href="https://graphinitylab.com"><img src="https://img.shields.io/static/v1?style=flat-square&amp;label=Ontario&amp;labelColor=30363d&amp;message=global%20clients&amp;color=C9A961" alt="Ontario · global clients"/></a>
+  &#160;
+  <a href="mailto:contact@graphinitylab.com"><img src="https://img.shields.io/static/v1?style=flat-square&amp;label=Briefings&amp;labelColor=30363d&amp;message=open&amp;color=C9A961&amp;logo=gmail&amp;logoColor=white" alt="Private briefing"/></a>
 </p>
 
 <p align="center">
   <a href="https://graphinitylab.com">Website</a>
-  &nbsp;·&nbsp;
+  &#160;·&#160;
   <a href="mailto:contact@graphinitylab.com">contact@graphinitylab.com</a>
 </p>
 
@@ -52,7 +57,9 @@ Bespoke applications and interconnected services (React-centric front ends, Node
 
 Where you prefer **not** to self-operate hosting, workloads may reside within **principal-managed colocation**: direct tenancy, articulated SLAs and backup posture—rather than anonymity on overloaded commodity slabs.
 
-<p align="center"><em>Select availability · quoted per mandate</em></p>
+*Select availability · quoted per mandate.*
+
+**Private infrastructure tiers**
 
 | Tier | From | Notes |
 |:-----|:-----|:------|
@@ -70,8 +77,6 @@ We are not chasing volume. **We reserve effort for mandates where seriousness of
 
 If that describes your situation, **you probably need someone who researches you before prescribing software** rather than quoting a SKU from a brochure.
 
----
-
 ### First we research—and only then propose work
 
 Discovery is deliberately slow where it protects capital later.
@@ -84,8 +89,6 @@ Discovery is deliberately slow where it protects capital later.
 6. **Competitive posture** — not vanity benchmarking, but the minimum standard your buyers already receive elsewhere and the delta you must surpass to deserve attention beyond price.
 
 Artifacts from this phase may combine narrative synthesis, phased recommendations, sequencing of riskiest assumptions and—as appropriate—prioritised remediation before any net-new ambition. **If we cannot articulate the gap honestly, we will say so.**
-
----
 
 ### What “the gap” tends to resemble
 
@@ -102,22 +105,18 @@ Rarely does the gap advertise itself coherently.
 
 Closing the breach is seldom *only* cosmetic: it blends **experience design**, sound **architecture**, humane **integrations** and pragmatic **migration** staged so interruption does not overwhelm the teams who must inhabit the outcome.
 
----
-
 ### Representative contexts—not an exhaustive taxonomy
 
 Think of these as sketches of mandates where disciplined research tended to illuminate the widest delta between aspiration and tooling.
 
 <details>
-<summary><strong>Field services & specialised trade</strong> (HVAC and adjacent)</summary>
+<summary><strong>Skilled trades & field-service industries</strong></summary>
 
-**Symptoms voiced:** vans run; dispatch does not converge with capacity; callers duplicate effort; estimating straddles three windows; invoices trail completion.
+**Symptoms voiced:** crews and vehicles run; dispatch rarely matches true capacity; callers repeat themselves; estimating lives in too many places; invoices drift behind completed work.
 
-**What research sharpens:** map of urgency states (seasonal choke, outage, preventative); where trust is conferred (reviews, licences, ETA honesty); choke between promise and telemetry.
+**What research sharpens:** how demand actually arrives (peaks, emergencies, planned work, project phases); where trust is conferred (reviews, licences, certifications, realistic ETAs); choke between what you promise crews and what systems can prove.
 
 **Closing the breach:** disciplined intake calibrated to urgency; truthful scheduling realism; artefacts that shorten estimate-to-payment without multiplying admin headcount wherever avoidable—sometimes public web, increasingly operator consoles and guarded automations stitched to existing accounting discipline.
-
----
 
 </details>
 
@@ -130,20 +129,16 @@ Think of these as sketches of mandates where disciplined research tended to illu
 
 **Closing the breach:** structured intake respecting boundaries; phased disclosure of competence; searchable depth without careless exposure surfaces; integrations that minimise shadow IT while preserving partner judgment—often less “marketing theatre” than **coherent reassurance architecture**.
 
----
-
 </details>
 
 <details>
-<summary><strong>Logistics, transport & supply-adjacent operations</summary>
+<summary><strong>Logistics, transport & supply-adjacent operations</strong></summary>
 
 **Symptoms voiced:** qualification happens asynchronously; tenders favour operators who assemble proof swiftly; brittle proof-of-insurance circulation.
 
 **What research sharpens:** trust gates before negotiation; artefacts expected at each gate; duplication between bid desk and dispatched reality.
 
 **Closing the breach:** qualification spine—documentation, SLA narrative, repeatable proof—with minimal redundancy to field updates; selectively automating only where signal quality already supports it.
-
----
 
 </details>
 
@@ -156,8 +151,6 @@ Think of these as sketches of mandates where disciplined research tended to illu
 
 **Closing the breach:** narrative-led surfaces tied to **booking logic that respects ambiguity**, with **staged** capture of vehicle condition—rather than an appointment widget orphaned from operational truth.
 
----
-
 </details>
 
 <details>
@@ -169,13 +162,9 @@ Think of these as sketches of mandates where disciplined research tended to illu
 
 **Closing the breach:** structured inquiry capture aligned to phased commercial reality—less brochure excess; more **credential-aware momentum**, respecting how large commitments actually authorise internally.
 
----
-
 </details>
 
-**If your sector sits outside these vignettes**, the operative question persists: **is there measurable waste, mistrust latency or cohesion debt we could credibly dissolve with disciplined research-backed engineering?**
-
----
+**If your industry or trade sits outside these vignettes**, the operative question persists: **is there measurable waste, mistrust latency or cohesion debt we could credibly dissolve with disciplined research-backed engineering?**
 
 ### Relationship to geography
 
@@ -185,18 +174,17 @@ Deliverability does not presume physical proximity early; seriousness of researc
 
 ---
 
-
 ## Technology
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Square-000000?style=for-the-badge&logo=square&logoColor=white" alt="Square" />
+  <img src="https://img.shields.io/badge/React_18-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind-0f766e?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-238636?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/MariaDB-015955?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Square-000?style=flat-square&logo=square&logoColor=white" alt="Square" />
 </p>
 
 ---
@@ -212,13 +200,19 @@ Licensing beyond our own engagements remains discretionary; announcements would 
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=graphinitylab&show_icons=true&theme=transparent&hide_title=true&count_private=true&text_color=1e293b&icon_color=4338ca&border_color=e2e8f0" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graphinitylab&layout=compact&theme=transparent&text_color=1e293b&border_color=e2e8f0" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=graphinitylab&amp;show_icons=true&amp;hide_border=false&amp;theme=graywhite&amp;border_radius=10&amp;text_bold=false&amp;hide_title=false">
+    <img src="https://github-readme-stats.vercel.app/api?username=graphinitylab&amp;show_icons=true&amp;hide_border=false&amp;theme=github_dark&amp;border_radius=10&amp;text_bold=false&amp;hide_title=false&amp;line_height=26" alt="GitHub stats" />
+  </picture>
+  &#160;&#160;&#160;
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=graphinitylab&amp;layout=compact&amp;hide_border=false&amp;theme=graywhite&amp;border_radius=10&amp;langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graphinitylab&amp;layout=compact&amp;hide_border=false&amp;theme=github_dark&amp;border_radius=10&amp;langs_count=8" alt="Top languages" />
+  </picture>
 </p>
 
-| | |
-|:-----|:-----|
+| Aspect | Detail |
+|:-------|:-------|
 | **Core stack** | React 18 · Node · Prisma · MariaDB |
 | **Infrastructure** | Principal-managed private colocation · multi-environment discipline |
 | **Availability** | Select new mandates |
@@ -230,7 +224,9 @@ Licensing beyond our own engagements remains discretionary; announcements would 
 Technical examination covers load behaviour, crawl and structural soundness, Core Web Vitals exposure and sequenced remediation—so capital follows documentation, not hope.
 
 <p align="center">
-  <a href="mailto:contact@graphinitylab.com?subject=Private%20briefing%20%E2%80%94%20technical%20audit"><strong>Request a private briefing</strong></a>
+  <a href="mailto:contact@graphinitylab.com?subject=Private%20briefing%20%E2%80%94%20technical%20audit">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;label=Private%20briefing&amp;labelColor=30363d&amp;message=contact%40graphinitylab.com&amp;color=C9A961" alt="Request a private briefing" />
+  </a>
 </p>
 
 ---
@@ -238,15 +234,15 @@ Technical examination covers load behaviour, crawl and structural soundness, Cor
 ## Presence
 
 <p align="center">
-  <a href="https://graphinitylab.com" target="_blank"><img src="https://img.shields.io/badge/Website-18181b?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:contact@graphinitylab.com"><img src="https://img.shields.io/badge/Briefings-4338ca?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/graphinity_lab/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://graphinitylab.com" target="_blank"><img src="https://img.shields.io/static/v1?style=flat-square&amp;label=site&amp;labelColor=30363d&amp;message=graphinitylab.com&amp;color=C9A961" alt="Website"/></a>
+  &#160;
+  <a href="mailto:contact@graphinitylab.com"><img src="https://img.shields.io/static/v1?style=flat-square&amp;label=inbox&amp;labelColor=30363d&amp;message=reach%20out&amp;color=C9A961&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+  &#160;
+  <a href="https://www.instagram.com/graphinity_lab/" target="_blank"><img src="https://img.shields.io/static/v1?style=flat-square&amp;label=Instagram&amp;labelColor=30363d&amp;message=graphinity_lab&amp;color=E4405F&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/></a>
 </p>
 
----
-
 <p align="center">
-  <sub><strong>Graphinity Lab © 2026</strong> — Ontario · Worldwide</sub>
+  <sub><strong>Graphinity Lab © 2026</strong> — Ontario · Worldwide · selectively engaged</sub>
 </p>
 
 ---
@@ -256,5 +252,5 @@ Technical examination covers load behaviour, crawl and structural soundness, Cor
 All engineering is entrusted to **[Jaysigx (@jaysigx)](https://github.com/jaysigx)**—sole author of software delivered under this name.
 
 <p align="center">
-  <a href="https://github.com/jaysigx" target="_blank"><img src="https://img.shields.io/badge/GitHub-%40jaysigx-181717?style=flat-square&logo=github&logoColor=white" alt="@jaysigx on GitHub" /></a>
+  <a href="https://github.com/jaysigx" target="_blank"><img src="https://img.shields.io/static/v1?style=flat-square&amp;label=GitHub&amp;labelColor=30363d&amp;message=%40jaysigx&amp;color=C9A961&amp;logo=github&amp;logoColor=white" alt="@jaysigx on GitHub"/></a>
 </p>
